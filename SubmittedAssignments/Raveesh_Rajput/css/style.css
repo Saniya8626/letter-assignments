@@ -13,7 +13,7 @@
     background-color: #F5F5F5;
 }
 
-/* .letter-background */
+/* .letter-background style */
 
 .topbox1 {
     position: absolute;
@@ -66,9 +66,9 @@
     height: 15mm;
     background-color: rgb(98, 0, 0);
     transform: skew(25deg, 0deg);
-}
+} 
 
-/* .letter-header */
+/* .letter-header style */
 
 .letter-header {
     left: 0mm;

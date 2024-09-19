@@ -6,11 +6,11 @@
     width:300mm;
     background-color:rgb(154,154,154);
 }
-.letter-background1{
+.letter-background{
   position:absolute;
   top:30mm;
   left:50mm;
-  height:250mm;
+  height:244mm;
   width:180mm;
   background-color:rgb(248, 245, 245);
 }
@@ -18,69 +18,69 @@
       position: relative;
       height:3mm;
       width:10mm;
-      top:85mm;
-      left:50mm;
-      border:1px;
+      top:48mm;
+      left:0mm;
+      border:0.75pt;
       background-color: rgb(230, 176, 77);
       z-index: 1;
 }.recttop2{
   position: relative;
   height:3mm;
   width:10mm;
-  top:82mm;
-  left:220mm;
-  border:1px;
+  top:45mm;
+  left:170mm;
+  border:0.75pt;
   background-color: rgb(230, 176, 77);
   z-index: 1;
 }
 .underline{
   position:absolute;
-  top:86mm;
-  width:160mm;
-  left:60mm;
-  border: 1px solid gray;
+  top:49mm;
+  width:159mm;
+  left:10mm;
+  border: 0.75pt solid gray;
   z-index:2;
 }
 .underline1{
   position:absolute;
-  top:253mm;
+  top:216mm;
   width:40mm;
-  left:95mm;
-  border: 1px solid white;
+  left:46mm;
+  border: 0.75pt solid white;
   z-index:3;
 }
 .underline2{
   position:absolute;
-  top:260mm;
+  top:228mm;
   width:10mm;
-  left:109mm;
-  border: 1px solid white;
+  left:60mm;
+  border: 0.75pt solid white;
   rotate: 90deg;
   z-index:3;
 }
 .underline3{
   position:absolute;
-  top:253mm;
+  top:217mm;
   width:40mm;
-  left:151mm;
-  border: 1px solid white;
+  left:102mm;
+  border: 0.75pt solid white;
   z-index:4;
 }
 .underline4{
   position:absolute;
-  top:260mm;
+  top:228mm;
   width:10mm;
-  left:170mm;
-  border: 1px solid white;
+  left:118mm;
+  border: 0.75pt solid white;
   z-index:4;
   rotate: 90deg;
 }
 .rectbottom{
   position:absolute;
-  top:238mm;
-  height:6mm;
-  width:23mm;
-  left:130mm;
+  top: 202mm;
+  height: 6mm;
+  width: 23mm;
+  left: 80mm;
   background-color:rgb(230, 176, 77); ;
   align-content: center;
   z-index: 5;
@@ -98,8 +98,8 @@
   }
   .letter-content.letter-org-logo1
 						img{
-						width:150%;
-						height:150%;
+						width:396.875mm;
+						height:396.875mm;
             
 						}
            }
@@ -118,13 +118,13 @@
      }
      .letter-ref{
        position:absolute;
-       top:35mm;
+       top:-2mm;
        left:-68mm;
      }
       .letter-date{
         position: relative;
-        top:60mm;
-        left:57mm;
+        top: 54mm;
+        left: 50mm;
       }
       
       
@@ -135,25 +135,26 @@
 						position:absolute;
             font-size:12pt;
 					  margin:55mm;
+            left: 15mm;
             top:35mm;
          }
          .letter-body-subject{
           position:relative;
           font-size:12pt ;
           margin:70mm;
-          top:55mm;
+          top:58mm;
           left:30mm;
          }
          .letter-body-salutation{
           position:relative;
           font-size:12pt ;
           margin:30mm;
-          top:-15mm;
-          left:35mm;
+          top:-12mm;
+          left:40mm;
          }
          .letter-body-message{
           position: absolute;
-          top:131mm;
+          top:134mm;
           margin-left:70mm;
 					margin-right:-15mm;
             p{
@@ -217,20 +218,22 @@
                       }
                       .letter-org-phone{
                         position:relative;
-                        margin-left:-4mm;
+                        margin-left:-5mm;
                         color: white;
                         font-size: 8pt;
+                        margin-top: 2mm;
                       }
                       .letter-org-email{
                         position: absolute;
                         margin-left: 58mm;
-                        margin-top: -14mm;
+                        margin-top: -15mm;
                       }
                       .e-mail1{
                         position:absolute;
-                        margin-left: -7mm;
+                        margin-left: -10mm;
                         font-size: 8pt;
                         color: white;
+                        margin-top: 2mm;
                         
                       }
                       .location{

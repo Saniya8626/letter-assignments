@@ -164,35 +164,36 @@
               overflow:auto;
               text-align:justify;
               }
-              p1{
+              /* .p1{
                 font-size:13pt;
                  text-indent: 15mm;
                 font-family: "Times New Roman", Times, serif;
                 overflow:auto;
                 text-align:justify;
                 }
-                p2{
+                .p2{
                   font-size:13pt;
                    text-indent: 15mm;
                   font-family: "Times New Roman", Times, serif;
                   overflow:auto;
                   text-align:justify;
+                  } */
                   
                   }
-                  }
+                  
                   .letter-body-message.signature{
                     left:30mm;
                     top:200mm;
                   }
-                  .letter-body-message{
-                    P2{
+                  .letter-body-message { 
+                  h2{
                       font-size: 10pt;
                       font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+                      top: -100pt;
                     }
-                    p3{
-                      font-size: 8pt;;
-                    }
-                    }
+                  }
+                    
+                    
                     .letter-footer{
                       position: absolute;
                       height: 40mm;
@@ -248,7 +249,7 @@
                         font-size: 8pt;
                         color: white;
                       }
-                      .text{
+                      /* .text{
                         position: absolute;
                         margin-left: -3mm;
                         font-size: 10pt;
@@ -293,7 +294,7 @@
                         color: rgb(70, 59, 59);
                         opacity: 5;
                         rotate: -30deg;
-                      }
+                      } */
 
 
                         

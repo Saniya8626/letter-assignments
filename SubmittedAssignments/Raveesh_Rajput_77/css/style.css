@@ -1,6 +1,6 @@
 @font-face {
     font-family: sign;
-    src: url("./fonts/GreatVibes-Regular.ttf");
+    src: url("/fonts/GreatVibes-Regular.ttf");
 }
 .letter-wrapper {
     position: relative;
@@ -73,15 +73,15 @@
 .letter-header {
     left: 0mm;
     top: 8mm;
-    width: 100%;
+    width: 210mm;
     height: 50mm;
     position: absolute;
     background-color: #F5F5F5;
 }
 .letter-org-logo {
     position: absolute;
-    left: 15mm;
-    top: 10mm;
+    left: 14mm;
+    top: 7mm;
     width: 42mm;
     height: 32mm;
 }
@@ -110,7 +110,7 @@
     top: 10mm;
     width: 35mm;
     text-align: right;
-    font-size: 4mm;
+    font-size: 11.3pt;
     line-height: 1mm;
 }
 .letter-icon {
@@ -129,7 +129,7 @@
     width: 9mm;
     height: 30mm;
     color: white;
-    font-size: 7mm;
+    font-size: 19.84pt;
     text-align: center;
     background-color: #ff354f;
 }
@@ -139,7 +139,7 @@
     top: 10mm;
     width: 9mm;
     height: 20mm;
-    font-size: 7mm;
+    font-size: 19.84pt;
     color: white;
     text-align: center;
     background-color: #cc1d34;
@@ -150,7 +150,7 @@
     top: 20mm;
     width: 9mm;
     height: 10mm;
-    font-size: 8mm;
+    font-size: 22.67pt;
     color: white;
     text-align: center;
     background-color: #a01b2f;
@@ -162,7 +162,7 @@
 .letter-ref {
     left: 20mm;
     top: 50mm;
-    width: 50%;
+    width: 20mm;
     height: auto;
     font-weight: bold;
     position: absolute;
@@ -170,7 +170,7 @@
 .letter-date {
     left: 155mm;
     top: 50mm;
-    width: 50%;
+    width: 35mm;
     height: auto;
     font-weight: bold;
     position: absolute;
@@ -182,7 +182,7 @@
     position: absolute;
     left: 0mm;
     top: 55mm;
-    width: 100%;
+    width: 210mm;
     height: 225mm;
     border-bottom: 2pt solid #bc9199;
 }
@@ -195,7 +195,7 @@
     height: 30mm;
     font-weight: bold;
     font-size: 13pt;
-    line-height: 5pt;
+    line-height: 1.76mm;
     margin-left: 20mm;
 }
 .letter-body-subject {
@@ -236,7 +236,7 @@
     top: 190mm;
     width: 30mm;
     height: 18mm;
-    font-size: 15pt;
+    font-size: 12pt;
     margin-left: 20mm;
 }
 .letter-body-sign .signature {

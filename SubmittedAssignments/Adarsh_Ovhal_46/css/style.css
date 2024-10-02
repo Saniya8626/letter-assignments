@@ -191,7 +191,7 @@ body .letter-wrapper .letter-content .letter-body .letter-body-message p {
   text-align: justify;
 }
 
- .letter-body-sign-img {
+body .letter-wrapper .letter-content .letter-body .letter-body-sign img {
   
   position: absolute;
   left: 20mm;

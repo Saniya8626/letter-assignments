@@ -1,11 +1,11 @@
-body 
+/* body 
 	.letter-background1 {
     background-color: #ffbd54;
     margin: auto;
     padding: auto;
     width: 426mm;
-    height: 434mm;       
- }
+    height: 434mm;        */
+ /* } */
   body .letter-wrapper {
     box-shadow: 5.0270833333mm 6.0854166667mm 29.36875mm rgb(5, 4, 4);
     display: flex;
@@ -17,6 +17,7 @@ body
     width: 222mm;
     height: 322mm;
     position: relative;
+    margin: auto;
     height: 393mm;
     width: 266mm;
 

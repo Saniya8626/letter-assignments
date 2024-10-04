@@ -1,3 +1,6 @@
+body {
+  background-color: rgb(202, 202, 202);
+}
 
 body .letter-wrapper {
   
@@ -188,7 +191,7 @@ body .letter-wrapper .letter-content .letter-body .letter-body-message p {
   text-align: justify;
 }
 
-body .letter-wrapper .letter-content .letter-body .sign {
+body .letter-wrapper .letter-content .letter-body .letter-body-sign img {
   
   position: absolute;
   left: 20mm;
